@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @hatowang
 - 👀 I’m interested in k8s
-- 🌱 I’m currently learning k8s
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wyyharo@163.com
 
 <!---
